@@ -41,31 +41,31 @@
 | 85 | 15.11.2016 | Spectre Hologram | https://www.amazon.de/gp/product/B01CO0EW34/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B01CO0EW34&linkCode=as2&tag=minkorrekt-21 | 
 | 84 | 26.10.2016 | Der Aufmerksamkeitsassitent | http://www.tinydeal.com/anti-sleep-alarm-drive-alert-driver-awake-driver-alarm-truck-tool-p-159085.html | 
 | 83 | 11.10.2016 | Glasello | https://www.amazon.de/gp/product/B01KK8NBE8/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B01KK8NBE8&linkCode=as2&tag=minkorrekt-21 | 
-| 82 | 27.09.2016 | Der Bierkühler und -wärmer | https://goo.gl/photos/BCmADjp9T6MTSy5j6 | 
+| 82 | 27.09.2016 | Der Bierkühler und -wärmer |  | 
 | 81 | 13.09.2016 | Handymicroskop |  | 
 | 80 | 25.08.2016 | Kein aktuelles Chinagadget der Woche |  | 
 | 79 | 02.08.2016 | Das Solarfahrzeug | https://www.dropbox.com/sc/cmmohck718gag13/AADPZE848u9mIbr3Pv18FyZ1a | 
-| 78 | 19.07.2016 | Fussball Glückskekse | http://www.glueckskekse.de/shop_4.4.8/motto-kekse/Fussball-Glueckskekse.html | 
+| 78 | 19.07.2016 | Fussball Glückskekse |  | 
 | 77 | 28.06.2016 | China on the Rocks | https://goo.gl/photos/df3p1YxNC8VJ9yxdA | 
 | 76 | 14.06.2016 | Der Hubschrauber | https://goo.gl/photos/ccXMyYPcDnfjsH339 https://goo.gl/photos/qkB9XwnLVX3uVUNFA | 
-| 75 | 01.06.2016 | Eier-Guillotine | http://gadgetwelt.de/2016/01/die-eier-guillotine-egg-cracker-fuer-nur-282-euro-inkl-versand/ | 
+| 75 | 01.06.2016 | Eier-Guillotine |  | 
 | 74 | 17.05.2016 | Der Zauberwurm! | https://goo.gl/photos/XACvQkVdiY7amQuAA | 
-| 73 | 03.05.2016 | Diamond Selector II | http://gadgetwelt.de/2016/03/diamantentester-fuer-nur-7-15-euro-inkl-versand-aus-china/ | 
-| 72 | 19.04.2016 | It’s Magic! | https://goo.gl/photos/oH7k79JQXsLmnvoeA http://gadgetwelt.de/2015/02/das-retro-toy-aehnlich-rubik-magic-aus-den-80er-jahren-ist-wieder-da/ | 
+| 73 | 03.05.2016 | Diamond Selector II |  | 
+| 72 | 19.04.2016 | It’s Magic! | https://goo.gl/photos/oH7k79JQXsLmnvoeA  | 
 | 71 | 05.04.2016 | Blaseaffe | https://goo.gl/photos/DxPLmhY74xzDRi7W7 | 
 | 70 | 22.03.2016 | Blas-Fix | http://www.amazon.de/260205-BLASFIX-Spezialbohrer-Ostereier-Ausblasen/dp/B00BG4MQVK | 
 | 70 | 22.03.2016 | Egg-Stractor | https://www.youtube.com/watch?v=LY9-BS6snwM | 
 | 69 | 08.03.2016 | Jala neti - Nasendusche | https://get.google.com/albumarchive/107341743493109591753/album/AF1QipOvaDYAucGn9gildHwVe72AW7hFCiPf_IjDKTzQ?source=pwa | 
-| 68 | 09.02.2016 | Gummibandpistole: Karneval ist Krieg!  | http://gadgetwelt.de/2014/03/gummiband-pistolen-fur-kleines-geld-2/ https://picasaweb.google.com/107341743493109591753/Folge68?authuser=0&feat=directlink | 
+| 68 | 09.02.2016 | Gummibandpistole: Karneval ist Krieg!  | https://picasaweb.google.com/107341743493109591753/Folge68?authuser=0&feat=directlink | 
 | 67 | 26.01.2016 | Die sieben Weltwunder!- Blumentopf mit integrierter Wolke als Wasserspender  | https://youtu.be/DjUlNhEH9WA | 
 | 67 | 26.01.2016 | Weinglashalter zum umhängen | https://www.china-gadgets.de/weinglas-tragegurt/ | 
 | 66 | 12.01.2016  | Die Nasenflöte! | http://www.thomann.de/de/stoelzel_nasenfloete_750530.htm https://picasaweb.google.com/107341743493109591753/Folge66?authuser=0&feat=directlink | 
 | 65 | 06.01.2016 |  |  | 
-| 64 | 08.12.2015 | The freshness Mist | http://gadgetwelt.de/2015/11/update-113-euro-zitrone-zum-aufspruehen-jetzt-fuer-nur-120-euro-gratis-versand-aus-china/ | 
-| 63 | 24.11.2015 | Sturmstreichhölzer | http://gadgetwelt.de/2015/10/endlich-wieder-fuer-68-cent-gratis-versand-wind-und-wasserfeste-outdoor-streichhoelzer/ | 
-| 62 | 10.11.2015 | Der Ökotacker | http://gadgetwelt.de/2013/03/magic-stapler-der-tacker-ohne-heftklammern-nur-151-e/ https://picasaweb.google.com/107341743493109591753/Folge62?authuser=0&feat=directlink | 
-| 61 | 26.10.2015 | Tschunk-Notsignal | http://gadgetwelt.de/2015/06/6er-pack-led-fallschirm-schleuder-helikopter-dinger-fuer-nur-164-cent-gratis-lieferung-aus-china/ | 
-| 60 | 13.10.2015 | Vakuumverschluß für Weinflaschen | http://gadgetwelt.de/2015/09/der-vakuum-verschluss-fuer-weinflaschen-mit-eingebauter-pumpe-schon-fuer-89-cent-gratis-versand/ | 
+| 64 | 08.12.2015 | The freshness Mist: Zitrone zum aufsprühen|  | 
+| 63 | 24.11.2015 | Sturmstreichhölzer |  | 
+| 62 | 10.11.2015 | Der Ökotacker | https://picasaweb.google.com/107341743493109591753/Folge62?authuser=0&feat=directlink | 
+| 61 | 26.10.2015 | Tschunk-Notsignal |  | 
+| 60 | 13.10.2015 | Vakuumverschluß für Weinflaschen |  | 
 | 59 | 29.09.2015 | Antibrum Spezial-Edition, mit 13000V gegen Mückenstiche |  | 
 | 58 | 15.09.2015 | Die Wurstspirale | https://www.youtube.com/watch?v=PTMZoYDRQGU | 
 | 57 | 31.08.2015 | magnetische Sanduhr | https://www.youtube.com/watch?v=_8HcXSy47Ec | 
