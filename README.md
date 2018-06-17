@@ -34,4 +34,51 @@
 | 91    | 21.02.17 | Elektrischer Radierergummi          | https://www.amazon.de/gp/product/B01LXE6J7J                                                                                                                          | https://photos.google.com/share/AF1QipMpmc7-C9ELnEVdNoVgVSqUdB2vEycLNOvQdtJwC514SOf26h1MGhmUn51B8m023g?key=SmhUZWkzOE01NlNTSU4zdU9aRlZLWlFqRzRTWmZn |
 | 90    | 08.02.17 | Fidget Cube                         | https://de.aliexpress.com/item/Size-3-3-3-3cm-Fidget-Cube-Toy-A-Viny-Desk-Spin-Anti-stress-Fidget-Toy/32838901541.html                                               | 
 | 89    | 24.01.17 | Der Kettenreiniger                  | https://www.amazon.de/gp/product/B01GKPD46A/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B01GKPD46A&linkCode=as2&tag=minkorrekt-21     | 
+| 88 | 10.01.2017 | Der Sojasoßenspender | https://www.amazon.de/gp/product/B01E9WCFO8/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B01E9WCFO8&linkCode=as2&tag=minkorrekt-21 | 
+| 87 | 13.12.2016 | The Drumsticks of hell | https://www.amazon.de/Yosoo%C2%AE-P%C3%A4dagogische-Spielzeug-Elektronisches-Schlagzeug-Elektronische/dp/B00W3EFJSY/ref=as_li_ss_tl?ie=UTF8&qid=1481614762&sr=8-1&keywords=drumsticks+spielzeug&linkCode=ll1&tag=minkorrekt-21&linkId=9682bbeeeb100e4138532d83fd681994 | 
+| 86 | 29.11.2016 | Beat it | (musste wegen postalischer Probleme leider entfallen) | 
+| 85 | 15.11.2016 | Spectre Hologram | https://www.amazon.de/gp/product/B01CO0EW34/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B01CO0EW34&linkCode=as2&tag=minkorrekt-21 | 
+| 84 | 26.10.2016 | Der Aufmerksamkeitsassitent | http://www.tinydeal.com/anti-sleep-alarm-drive-alert-driver-awake-driver-alarm-truck-tool-p-159085.html | 
+| 83 | 11.10.2016 | Glasello | https://www.amazon.de/gp/product/B01KK8NBE8/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B01KK8NBE8&linkCode=as2&tag=minkorrekt-21 | 
+| 82 | 27.09.2016 | Der Bierkühler und -wärmer | https://goo.gl/photos/BCmADjp9T6MTSy5j6 | 
+| 81 | 13.09.2016 | Handymicroskop |  | 
+| 80 | 25.08.2016 | Kein aktuelles Chinagadget der Woche |  | 
+| 79 | 02.08.2016 | Das Solarfahrzeug | https://www.dropbox.com/sc/cmmohck718gag13/AADPZE848u9mIbr3Pv18FyZ1a | 
+| 78 | 19.07.2016 | Fussball Glückskekse | http://www.glueckskekse.de/shop_4.4.8/motto-kekse/Fussball-Glueckskekse.html | 
+| 77 | 28.06.2016 | China on the Rocks | https://goo.gl/photos/df3p1YxNC8VJ9yxdA | 
+| 76 | 14.06.2016 | Der Hubschrauber | https://goo.gl/photos/ccXMyYPcDnfjsH339 https://goo.gl/photos/qkB9XwnLVX3uVUNFA | 
+| 75 | 01.06.2016 | Eier-Guillotine | http://gadgetwelt.de/2016/01/die-eier-guillotine-egg-cracker-fuer-nur-282-euro-inkl-versand/ | 
+| 74 | 17.05.2016 | Der Zauberwurm! | https://goo.gl/photos/XACvQkVdiY7amQuAA | 
+| 73 | 03.05.2016 | Diamond Selector II | http://gadgetwelt.de/2016/03/diamantentester-fuer-nur-7-15-euro-inkl-versand-aus-china/ | 
+| 72 | 19.04.2016 | It’s Magic! | https://goo.gl/photos/oH7k79JQXsLmnvoeA http://gadgetwelt.de/2015/02/das-retro-toy-aehnlich-rubik-magic-aus-den-80er-jahren-ist-wieder-da/ | 
+| 71 | 05.04.2016 | Blaseaffe | https://goo.gl/photos/DxPLmhY74xzDRi7W7 | 
+| 70 | 22.03.2016 | Blas-Fix | http://www.amazon.de/260205-BLASFIX-Spezialbohrer-Ostereier-Ausblasen/dp/B00BG4MQVK | 
+| 70 | 22.03.2016 | Egg-Stractor | https://www.youtube.com/watch?v=LY9-BS6snwM | 
+| 69 | 08.03.2016 | Jala neti - Nasendusche | https://get.google.com/albumarchive/107341743493109591753/album/AF1QipOvaDYAucGn9gildHwVe72AW7hFCiPf_IjDKTzQ?source=pwa | 
+| 68 | 09.02.2016 | Gummibandpistole: Karneval ist Krieg!  | http://gadgetwelt.de/2014/03/gummiband-pistolen-fur-kleines-geld-2/ https://picasaweb.google.com/107341743493109591753/Folge68?authuser=0&feat=directlink | 
+| 67 | 26.01.2016 | Die sieben Weltwunder!- Blumentopf mit integrierter Wolke als Wasserspender  | https://youtu.be/DjUlNhEH9WA | 
+| 67 | 26.01.2016 | Weinglashalter zum umhängen | https://www.china-gadgets.de/weinglas-tragegurt/ | 
+| 66 | 12.01.2016  | Die Nasenflöte! | http://www.thomann.de/de/stoelzel_nasenfloete_750530.htm https://picasaweb.google.com/107341743493109591753/Folge66?authuser=0&feat=directlink | 
+| 65 | 06.01.2016 |  |  | 
+| 64 | 08.12.2015 | The freshness Mist | http://gadgetwelt.de/2015/11/update-113-euro-zitrone-zum-aufspruehen-jetzt-fuer-nur-120-euro-gratis-versand-aus-china/ | 
+| 63 | 24.11.2015 | Sturmstreichhölzer | http://gadgetwelt.de/2015/10/endlich-wieder-fuer-68-cent-gratis-versand-wind-und-wasserfeste-outdoor-streichhoelzer/ | 
+| 62 | 10.11.2015 | Der Ökotacker | http://gadgetwelt.de/2013/03/magic-stapler-der-tacker-ohne-heftklammern-nur-151-e/ https://picasaweb.google.com/107341743493109591753/Folge62?authuser=0&feat=directlink | 
+| 61 | 26.10.2015 | Tschunk-Notsignal | http://gadgetwelt.de/2015/06/6er-pack-led-fallschirm-schleuder-helikopter-dinger-fuer-nur-164-cent-gratis-lieferung-aus-china/ | 
+| 60 | 13.10.2015 | Vakuumverschluß für Weinflaschen | http://gadgetwelt.de/2015/09/der-vakuum-verschluss-fuer-weinflaschen-mit-eingebauter-pumpe-schon-fuer-89-cent-gratis-versand/ | 
+| 59 | 29.09.2015 | Antibrum Spezial-Edition, mit 13000V gegen Mückenstiche |  | 
+| 58 | 15.09.2015 | Die Wurstspirale | https://www.youtube.com/watch?v=PTMZoYDRQGU | 
+| 57 | 31.08.2015 | magnetische Sanduhr | https://www.youtube.com/watch?v=_8HcXSy47Ec | 
+| 56 | 04.08.2015 | tritium trigaglow h3 microgaslicht Anhäenger |  | 
+| 55 | 21.06.2015 | It’s getting hot in here, Thermometerband als reise fieberthermometer | https://picasaweb.google.com/107341743493109591753/FeverscanAusFolge55?authuser=0&authkey=Gv1sRgCPuPi6n92a3JUQ&feat=directlink | 
+| 54 | 07.07.2015 | Gefüllte Burger mit diesem genialen Gerät | https://picasaweb.google.com/107341743493109591753/Folge54?authuser=0&feat=directlink | 
+| 53 | 23.06..2015 | Doodling Robot | http://www.china-gadgets.de/gadget/kritzelroboter/ | 
+| 52 | 09.06.2015 | Ein Hamster der spricht | https://plus.google.com/photos/107341743493109591753/albums/6158114702726364257?authkey=CLOcr-HLl6j52QE https://www.youtube.com/watch?v=_vCzL8Ef8OU | 
+| 51 | 26.05.2015 | der Rollwecker | https://plus.google.com/photos/107341743493109591753/albums/6152747817149663329?authkey=CM3QxJLXorb1Xg  | 
+| 50 | 12.05.2015 | cartesische Taucher  | https://plus.google.com/photos/107341743493109591753/albums/6147869543345651553?authkey=CICgxM6F5o3tfQ http://youtu.be/2ejoDXtRoqk https://www.geo.de/geolino/basteln/4339-rtkl-experiment-so-baut-ihr-einen-kartesischen-angler | 
+| 49 | 28.04.2015 | The magic Seller |  | 
+| 48 | 14.04.2015 | Promilletester |  | 
+| 47 | 24.03.2015 |  Kane Sa Luk Starterkit | https://www.youtube.com/watch?v=YbE6TSSChjw https://plus.google.com/photos/107341743493109591753/albums/6129728794597640529?authkey=CP-F-qr_zOeebg | 
+| 46 | 10.03.2015 | Linsen für sein iPhone | https://www.china-gadgets.de/aufklemmbare-objektive-smartphone/ | 
+| 45 | 24.02.2015 | Einsteins Ente | https://www.china-gadgets.de/einsteins-ente/ https://plus.google.com/photos/107341743493109591753/albums/6119168711095110033?authkey=CIKOg5y8rKruqwE http://youtu.be/onZoQ2jUFrA | 
+
 
