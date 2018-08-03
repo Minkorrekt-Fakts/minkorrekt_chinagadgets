@@ -1,7 +1,10 @@
 # (m)eth(od)isch inkorrekte gadgets
 
+http://minkorrekt.de/
+
 | Folge | Datum      | Name                                | Link                                                                                                                                                                 | Anmerkungen                                                                                                                                                 |
 | ------|------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 125   | 31.07.2018 | Luftbefeuchter | https://amzn.to/2Kcm4m5 | https://youtu.be/rtz4mJFsPu0 |
 | 124   | 17.07.2018 | Elektrische Karafierpumpe           | https://www.amazon.de/Svpro-Weinbel%C3%BCfter-Automatischer-Batteriebetrieben-Luftsprudler/dp/B01M349O9J/ref=as_li_ss_tl?ie=UTF8&qid=1531723797&sr=8-1&keywords=elektrischer+dekanter+apfel&linkCode=sl1&tag=minkorrekt-21&linkId=96ff3f2ac2641acfbea6b301b87c4fc1 | https://www.youtube.com/watch?v=eyFGdQsuHtw&feature=youtu.be  |
 | 123   | 03.07.2018 | -                                   |                                                                                                                                                                      |                                                                                  |
 | 122   | 19.06.2018 | Magnetische Schnürsenkel            | https://www.amazon.de/Magnetischen-Schn%C3%BCrsenkel-Magnetverschluss-Schuhe-Schwarz/dp/B0748KLKTC/ref=as_li_ss_tl?ie=UTF8&qid=1529479488&sr=8-2&keywords=zubits&linkCode=sl1&tag=minkorrekt-21&linkId=ffb900e8f7b07b70d66bb1a052bc253a |                                                                                          |
