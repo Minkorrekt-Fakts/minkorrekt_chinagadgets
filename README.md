@@ -87,3 +87,13 @@ http://minkorrekt.de/
 | 47    | 24.03.2015 | Kane Sa Luk Starterkit              | https://www.youtube.com/watch?v=YbE6TSSChjw https://plus.google.com/photos/107341743493109591753/albums/6129728794597640529?authkey=CP-F-qr_zOeebg | 
 | 46    | 10.03.2015 | Linsen für sein iPhone              | https://www.china-gadgets.de/aufklemmbare-objektive-smartphone/ | 
 | 45    | 24.02.2015 | Einsteins Ente                      | https://www.china-gadgets.de/einsteins-ente/ https://plus.google.com/photos/107341743493109591753/albums/6119168711095110033?authkey=CIKOg5y8rKruqwE http://youtu.be/onZoQ2jUFrA | 
+| 38    | 18.11.2014 | Thinking Putty                      | https://plus.google.com/photos/107341743493109591753/albums/6082972802986040801?authkey=CNau4s79svvCAw |
+| 36    | 21.10.2014 | Urzeitkrebse                        | https://plus.google.com/photos/107341743493109591753/albums/6072565318128376257?authkey=CPHtw86KtMrNnAE |
+| 35    | 07.10.2014 | Elektromagentischer Felddetektor    | https://get.google.com/albumarchive/107341743493109591753/album/AF1QipOgmBuHd6LkA5B-vxkl4clloH6vmGvg98utaR7T/AF1QipNUk4U-4hwu7UVD8Bqr7TLSOP45KxQ8tXQ9T6AL |
+| 34    | 22.09.2014 | Stell dich nicht so an              | https://plus.google.com/photos/107341743493109591753/album/6062023849809155153/6062023854249223650?authkey=COq_3qag7uqqfw |
+| 33    | 09.09.2014 | Ostrich Pillow                      | https://gadgets-china.de/ostrich-pillow-straussenkissen-kissen/ | https://plus.google.com/photos/107341743493109591753/albums/6057373857386305121?authkey=CIX1m-b5rq6FDg |
+| 32    | 27.08.2014 | Motorisierter Papierflieger         | https://www.china-gadgets.de/papierflieger-elektromotor-power-up/ | 
+| 23    | 25.03.2014 | Antigravitationskreisel             | https://www.ebay.de/itm/160586911447?lpid=91&clk_rvr_id=607955738018 | https://www.youtube.com/watch?v=899osYL0hpY | 
+|  6    | 30.07.2013 | Sieht aus wie ein Sexspielzeug, ist aber was ganz anderes | | |
+|  5    | 16.07.2013 | Regenbogenmacherdingsi              | https://get.google.com/albumarchive/107341743493109591753/album/AF1QipMcpwcXSvZtPHACwfwI-6DUqKCPgXn8V6PAtOR3?source=pwa |
+|  4    | 03.07.2013 | PET-Bewässerung                     | https://get.google.com/albumarchive/107341743493109591753/album/AF1QipOFHLdJGRd-SuBmG1JxGm0DIJf3Q43jrNrBWJgR?source=pwa&authKey=CPPL1prh7MSrQQ |
